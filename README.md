@@ -6,12 +6,12 @@ AngularJS#1.5.8
 Bootstrap (recent version)
 angular-ui-calendar
 
-Kick off Process:
+<b>Kick off Process:<b> <br/>
 Use Yeoman to create boilerplate
 Include LESS Compiler
 Use Grunt to build
 Install angular-ui-calendar, bootstrap, angularjs (optional) via Bower
 
-Build:
+<b>Build:</b><br/>
 Include angular-ui-calendar on Home sceeen
 
